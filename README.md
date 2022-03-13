@@ -7,7 +7,7 @@
 
 - termux-setup-storage
 
-- git clone MasterWifiNetworkSolution/cft   
+- git clone https://github.com/MasterWifiNetworkSolution/cft   
 
 - cd clash && bash install.sh
 
