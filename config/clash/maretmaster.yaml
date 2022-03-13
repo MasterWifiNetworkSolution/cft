@@ -1,0 +1,9 @@
+proxies:
+- name: "sg2"
+  type: trojan
+  server: sg2-trojan.bonds.id
+  port: 443
+  password: 2d6507c0-9643-11ec-b3ad-1239d0255272
+  udp: true
+  sni: v24.tiktokcdn.com
+  skip-cert-verify: true
