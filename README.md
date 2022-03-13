@@ -9,7 +9,7 @@
 
 - git clone https://github.com/MasterWifiNetworkSolution/cft   
 
-- cd clash && bash install.sh
+- cd cft && bash install.sh
 
 # update script by MASTER WIFI NETWORK SOLUTION
 https://www.youtube.com/c/MasterWiFiNetworkSolution
